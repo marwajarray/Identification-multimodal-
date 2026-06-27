@@ -1,0 +1,3 @@
+This project is a multimodal biometric identification system that combines multiple biometric traits to improve the accuracy, reliability, and security of user identification. By integrating different biometric modalities, the system reduces the limitations of single-biometric authentication and provides more robust identity verification.
+
+The project includes data preprocessing, feature extraction, biometric matching, and decision fusion to identify individuals based on the combined biometric information. It demonstrates the practical application of multimodal biometrics for secure authentication in real-world environments.
